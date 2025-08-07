@@ -1,0 +1,20 @@
+{
+    "spinnerText": "Processing...",
+    "buttons": {
+        "viewMore": "View more",
+        "userDetails": "Details"
+    },
+    "menus": {
+        "home": "Home",
+        "users": "Users",
+        "usersPaginate": "Paginate",
+        "usersScroll": "Scroll",
+        "chat": "Chat"
+    },
+    "user": {
+        "myAccount": "My account",
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Logout"
+    }
+}

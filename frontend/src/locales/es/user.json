@@ -1,0 +1,13 @@
+{
+    "name": "Nombre",
+    "username": "Nombre de usuario",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+    "city": "Ciudad",
+    "company": "Empresa",
+    "phone": "Teléfono",
+    "title": "Lista de usuarios",
+    "alert": {
+        "errorUser": "Error al cargar la información"
+    }
+}

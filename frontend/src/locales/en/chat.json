@@ -1,0 +1,4 @@
+{
+    "userConnect": "~ {{name}} has joined the chat",
+    "userDisconnect": "~ {{name}} has left the chat"
+}

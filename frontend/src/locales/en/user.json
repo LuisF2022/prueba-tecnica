@@ -1,0 +1,13 @@
+{
+    "name": "Name",
+    "username": "UserName",
+    "email": "Email",
+    "address": "Address",
+    "city": "City",
+    "company": "Company",
+    "phone": "Phone",
+    "title": "Users List",
+    "alert": {
+        "errorUser": "Error loading the information"
+    }
+}
